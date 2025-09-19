@@ -10,3 +10,8 @@ I had no malicious intent then or now, but I believe this vulnerability exposes 
 Given how easy it is to download the source code for all plugins, Figma is putting them at risk, and developers need to implement their own protections and licensing systems. Some plugins aren’t even obfuscated.
 
 One such example:
+
+Tools:
+https://deobfuscate.relative.im/
+https://deobfuscate.io/
+https://chatgpt.com/
